@@ -7,8 +7,7 @@ Obviously install `neovim` for your distro:
 
 You also need to install `wbthomason/packer.nvim`:
 
-```git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim```
+`git clone --depth 2 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
 
 Then run:
 `git clone https://github.com/JamesNova/neovim .config/nvim`
